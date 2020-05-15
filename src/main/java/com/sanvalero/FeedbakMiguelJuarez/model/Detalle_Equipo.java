@@ -93,6 +93,4 @@ public class Detalle_Equipo {
 		this.puntos = puntos;
 	}
 	
-	
-	
 }
